@@ -1,13 +1,14 @@
 # Grupo Bimbo Inventory Demand from Kaggle
-play with recursive NN on inventory demand data example
 
-## data source
+Play with recursive NN on inventory demand data
+
+## Data source
 https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data
 
 Data has been downloaded and unziped into repository subfolder "data"
 Folder data has been added to .gitignore
 
-##Structure of solution
+## Structure of solution
 I prepare_data.py
 1. takes files form data folder and join them
 2. clean it (filling NAs, duplicates etc)
